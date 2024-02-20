@@ -1,0 +1,20 @@
+{
+  "name": "cypressauto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harish Aravind",
+  "license": "ISC",
+  "dependencies": {
+    "cypress-xpath": "^2.0.1",
+    "read-excel-file": "^5.7.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "cypress": "^13.3.3",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
